@@ -5,11 +5,6 @@ const andreyProjects = [
     name: 'Paint — рисовалка на Canvas',
     path: 'Paint/',
     description: 'Небольшое приложение для рисования на HTML5 Canvas.'
-  },
-  {
-    name: 'Bootstrap примеры',
-    path: 'bootstrap/',
-    description: 'Подборка демо-страниц и компонентов Bootstrap.'
   }
 ];
 
